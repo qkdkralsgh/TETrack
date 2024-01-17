@@ -82,7 +82,7 @@ training settings can be found at ```tracking/train_tetrack_vit.sh``` .
 bash tracking/train_tetrack_vit.sh
 ```
 
-## Test and evaluate MixFormer on benchmarks
+## Test and evaluate TETrack on benchmarks
 
 - LaSOT/GOT10k-test/TrackingNet. More details of 
 test settings can be found at ```tracking/test_tetrack_vit.sh```
