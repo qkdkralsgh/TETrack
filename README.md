@@ -34,7 +34,7 @@ TETrack is composed of a **target-aware token emphasizer (TE) based backbone**, 
 ## Install the environment
 Use the Anaconda
 ```
-conda create -n mixformer python>=3.7
+conda create -n TETrack_env python>=3.7
 conda activate TETrack_env
 bash install_pytorch17.sh
 ```
