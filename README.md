@@ -42,7 +42,7 @@ bash install_pytorch17.sh
 ## Data Preparation
 Put the tracking datasets in ./data. It should look like:
    ```
-   ${MixFormer_ROOT}
+   ${TETrack_ROOT}
     -- data
         -- lasot
             |-- airplane
