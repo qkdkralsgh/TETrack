@@ -1,6 +1,6 @@
 # TETrack
 
-TETrack: Target-aware Token Emphasis for Visual Object Tracking
+Visual Object Tracking using Learnable Target-aware Token Emphasis
 
 ![TETrack_Framework](tracking/TETrack_network.png)
 
@@ -8,7 +8,7 @@ TETrack: Target-aware Token Emphasis for Visual Object Tracking
 
 **[Jan 17, 2024]**
 
-- We release Code, models and raw results.
+- We release Code.
 
 
 ## Highlights
